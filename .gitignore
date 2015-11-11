@@ -1,0 +1,2 @@
+# ignore basic hidden files i.e. the PHPstorm .idea file, etc.
+/.idea
